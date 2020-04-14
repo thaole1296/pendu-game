@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pendu/static/css/main.c013138a.chunk.css",
-    "main.js": "/pendu/static/js/main.ff9e8663.chunk.js",
-    "main.js.map": "/pendu/static/js/main.ff9e8663.chunk.js.map",
-    "runtime-main.js": "/pendu/static/js/runtime-main.1a213c8d.js",
-    "runtime-main.js.map": "/pendu/static/js/runtime-main.1a213c8d.js.map",
-    "static/js/2.d1198baf.chunk.js": "/pendu/static/js/2.d1198baf.chunk.js",
-    "static/js/2.d1198baf.chunk.js.map": "/pendu/static/js/2.d1198baf.chunk.js.map",
-    "index.html": "/pendu/index.html",
-    "precache-manifest.4fad554a3f484893508e09d5aeeca5f4.js": "/pendu/precache-manifest.4fad554a3f484893508e09d5aeeca5f4.js",
-    "service-worker.js": "/pendu/service-worker.js",
-    "static/css/main.c013138a.chunk.css.map": "/pendu/static/css/main.c013138a.chunk.css.map",
-    "static/js/2.d1198baf.chunk.js.LICENSE.txt": "/pendu/static/js/2.d1198baf.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/pendu/static/media/you_win.7b8895b2.png"
+    "main.css": "/pendu-game/static/css/main.474083e4.chunk.css",
+    "main.js": "/pendu-game/static/js/main.019ecf14.chunk.js",
+    "main.js.map": "/pendu-game/static/js/main.019ecf14.chunk.js.map",
+    "runtime-main.js": "/pendu-game/static/js/runtime-main.e2dc8a4a.js",
+    "runtime-main.js.map": "/pendu-game/static/js/runtime-main.e2dc8a4a.js.map",
+    "static/js/2.d1198baf.chunk.js": "/pendu-game/static/js/2.d1198baf.chunk.js",
+    "static/js/2.d1198baf.chunk.js.map": "/pendu-game/static/js/2.d1198baf.chunk.js.map",
+    "index.html": "/pendu-game/index.html",
+    "precache-manifest.b9ea251c581967c9da8f315c841bd5ae.js": "/pendu-game/precache-manifest.b9ea251c581967c9da8f315c841bd5ae.js",
+    "service-worker.js": "/pendu-game/service-worker.js",
+    "static/css/main.474083e4.chunk.css.map": "/pendu-game/static/css/main.474083e4.chunk.css.map",
+    "static/js/2.d1198baf.chunk.js.LICENSE.txt": "/pendu-game/static/js/2.d1198baf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pendu-game/static/media/you_win.7b8895b2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a213c8d.js",
+    "static/js/runtime-main.e2dc8a4a.js",
     "static/js/2.d1198baf.chunk.js",
-    "static/css/main.c013138a.chunk.css",
-    "static/js/main.ff9e8663.chunk.js"
+    "static/css/main.474083e4.chunk.css",
+    "static/js/main.019ecf14.chunk.js"
   ]
 }
