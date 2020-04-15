@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pendu-game/static/css/main.9d440fff.chunk.css",
-    "main.js": "/pendu-game/static/js/main.7fd4dfef.chunk.js",
-    "main.js.map": "/pendu-game/static/js/main.7fd4dfef.chunk.js.map",
+    "main.js": "/pendu-game/static/js/main.4dcd2959.chunk.js",
+    "main.js.map": "/pendu-game/static/js/main.4dcd2959.chunk.js.map",
     "runtime-main.js": "/pendu-game/static/js/runtime-main.e2dc8a4a.js",
     "runtime-main.js.map": "/pendu-game/static/js/runtime-main.e2dc8a4a.js.map",
     "static/js/2.d1198baf.chunk.js": "/pendu-game/static/js/2.d1198baf.chunk.js",
     "static/js/2.d1198baf.chunk.js.map": "/pendu-game/static/js/2.d1198baf.chunk.js.map",
     "index.html": "/pendu-game/index.html",
-    "precache-manifest.f963f7486f4754cf94942767617ec6c2.js": "/pendu-game/precache-manifest.f963f7486f4754cf94942767617ec6c2.js",
+    "precache-manifest.01f4925986b2de39d0f346d7d362c192.js": "/pendu-game/precache-manifest.01f4925986b2de39d0f346d7d362c192.js",
     "service-worker.js": "/pendu-game/service-worker.js",
     "static/css/main.9d440fff.chunk.css.map": "/pendu-game/static/css/main.9d440fff.chunk.css.map",
     "static/js/2.d1198baf.chunk.js.LICENSE.txt": "/pendu-game/static/js/2.d1198baf.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e2dc8a4a.js",
     "static/js/2.d1198baf.chunk.js",
     "static/css/main.9d440fff.chunk.css",
-    "static/js/main.7fd4dfef.chunk.js"
+    "static/js/main.4dcd2959.chunk.js"
   ]
 }
